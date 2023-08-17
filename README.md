@@ -1,4 +1,5 @@
 # Tars-Ai chat bot using Open.Ai api 
 
 https://tars-ai-git-main-omsoni06.vercel.app/
-![Tars-ai](https://github.com/Omsoni06/Tars-Ai/assets/92720665/c3053ab9-33ea-46b4-adb2-6167d5b50198)
+
+![Tarss](https://github.com/Omsoni06/Tars-Ai/assets/92720665/4fa9c4f1-5aa4-49d9-a2da-460e37aae68a)
